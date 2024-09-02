@@ -1,0 +1,1 @@
+This repository contains a collection of tasks and projects assigned to me during my internship. The tasks cover various aspects of my work, including data analysis, code development, and project contributions.
